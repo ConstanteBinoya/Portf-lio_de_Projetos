@@ -133,7 +133,7 @@ button.deletAll{
 
 button.deletAll:hover{
     background: #ff004c;
-    color: beige;
+    color: rgb(243, 243, 238);
 }
 
 .icone-central{
@@ -149,4 +149,5 @@ button.deletAll:hover{
     .listaTarefas{
         width: 100%;
     }
+    
 }
