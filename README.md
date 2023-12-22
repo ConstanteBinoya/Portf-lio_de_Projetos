@@ -27,7 +27,7 @@ Se você estiver interessado em contribuir ou fornecer feedback, ficarei feliz e
 Sinta-se à vontade para entrar em contato comigo! Estou aberto a oportunidades de aprendizado e colaboração.
 
 - **Email**: constantebinoyaz1@gmail.com
-- **LinkedIn**: [constante-binoya/in](https://linkedin.com/in/constante-binoya-2647b25a)
+- **LinkedIn**: [constante-binoya/in](https://www.linkedin.com/in/constante-binoya-26474b25a/)
 - **GitHub**: [ConstanteBinoya/GitHub](https://github.com/ConstanteBinoya)
 
 Obrigado por explorar meu **Portfólio de Projetos**! Espero que você aprecie os projetos tanto quanto eu gostei de desenvolvê-los. 😊✨
