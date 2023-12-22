@@ -6,10 +6,10 @@ Bem-vindo ao meu **Portfólio de Projetos**! 👋 Aqui você encontrará uma col
 
 ## 🌟 Destaques
 
-### [Lista de Tarefas]()
+### Projeto 1: [Lista de Tarefas]()
 Um aplicativo simples e eficiente para gerenciar suas tarefas diárias, a Lista de Tarefas oferece uma experiência intuitiva, permitindo adicionar, marcar como concluídas e excluir tarefas, tudo em um único lugar..
 
-[![Projeto 1](imagem-para-o-projeto-1.png)]([link-para-o-projeto-1](https://github.com/ConstanteBinoya/Portfolio_de_Projetos/tree/main/lista-de-tarefas))
+[![Projeto 1](https://github.com/ConstanteBinoya/Portfolio_de_Projetos/blob/main/lista-de-tarefas/src/assets/icon-readme.png)]([link-para-o-projeto-1](https://github.com/ConstanteBinoya/Portfolio_de_Projetos/tree/main/lista-de-tarefas))
 
 ## 🚀 Tecnologias em Aprendizado
 
